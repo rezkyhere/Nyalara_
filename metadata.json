@@ -1,0 +1,6 @@
+{
+  "name": "Nyalara - Ruang Aman Digital Remaja",
+  "description": "Prototipe interaktif ruang aman digital untuk remaja berdasarkan ideasi Crazy 8 & riset SIAP IMPACT 2026. Menghadirkan Mood Check-In, Ruang Cerita, Teman Dengar, Ruang Tenang, Daily Reminder, Kenali Dirimu, Support Circle, dan Langkah Kecil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
